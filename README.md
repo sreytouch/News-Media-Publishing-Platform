@@ -7,6 +7,8 @@ A full-stack content management system for publishing news articles. NMPP has tw
 - **Editorial back-office** — authenticated staff manage categories and articles, move stories
   through a draft → published → archived workflow, and track publishing health on a dashboard.
 
+![News Media Publishing Platform](./image.png)
+
 ## Domain
 
 - **User** — `id`, `email` (unique), `password_hash`, `full_name`, `role` (`admin` | `editor` |
